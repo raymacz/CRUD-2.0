@@ -1,0 +1,15 @@
+
+CREATE DATABASE db_crude;
+
+USE db_crude;
+
+
+CREATE TABLE IF NOT EXISTS `tbl_contact` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(200) NOT NULL,
+  `phone` varchar(15) DEFAULT NULL,
+  `address` varchar(200) DEFAULT NULL,
+  `email` varchar(200) DEFAULT NULL,
+  `status` varchar(1) DEFAULT NULL COMMENT 'S-Single; M-Married; W-Widowed; D-Divorced/Separated;',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
