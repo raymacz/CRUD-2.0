@@ -1,5 +1,5 @@
-Name of application: My Contacts App
-Author:Dorothy Ann Decano
+Name of application: CRUD 2.0
+Author: Raymacz
 Version: 1
 
 How to use: 
@@ -22,23 +22,5 @@ How to use:
 1. On the contacts table click on Delete link.
 2. A confirmation box pops up and click on OK to confirm deletion.
 
-
-
-Shaiju >  Anup
-Shaiju < Anil
-Renjith <  Anil
-Renjith <  Anup
-Raj < Anil
-Raj >  Renjith
-
- Renjith Anup Shaiju Raj   Anil
-
-        Sathish < Shaiju
-		
-		
-		2 5 2 5 1
-		
-		
-		http://interview.supportresort.com/cgi-bin/interview/interview.cgi
 		
 		
